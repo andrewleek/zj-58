@@ -1,6 +1,6 @@
 CC=gcc
 RM=rm -f
-CFLAGS=-Wl,-rpath,/usr/lib -Wall -fPIC -O3
+CFLAGS=-Wl,-rpath,/usr/lib -Wall -fPIC -O3 -std=gnu89
 LDFLAGS=
 LDLIBS=-lcupsimage -lcups
 
