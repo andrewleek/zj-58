@@ -1,6 +1,8 @@
 zj-58
 =====
 
+forked from belese to include darkness settings etc. and also my tweaking of a gibberish bug that displays on some prints
+
 CUPS filter for thermal printer Zjiang ZJ-58
 
 The linux driver provided on Zjiang site unfortunately doesn't work.
